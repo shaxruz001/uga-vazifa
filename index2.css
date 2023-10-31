@@ -1,0 +1,39 @@
+.qwe {
+    padding: 20px;
+}
+.shaxruz{
+    width: 150px;
+    height: 100px;
+    background-color: green;
+    position: fixed;
+}
+
+.Bexruz{
+    width: 150px;
+    height: 100px;
+    background-color: rgb(91, 91, 101);
+    position: fixed;
+    margin-top: 40px;
+    margin-left: 50px;
+
+}
+
+.Firuz{
+    width: 150px;
+    height: 100px;
+    background-color: orange;
+    position: fixed;
+    margin-top: 70px;
+    margin-left: 100px;
+}
+
+.absolute{
+    text-align: center;
+    width: 150px;
+    height: 130px;
+    background-color: rgb(54, 255, 47);
+    position: fixed;
+    margin-top: 90px;
+    margin-left: 150px;
+
+}
